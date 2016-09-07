@@ -1,0 +1,5 @@
+*pyc
+build
+project.egg-info
+scrapinghub.yml
+emailifdown_scrapy/settings.py
