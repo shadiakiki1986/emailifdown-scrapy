@@ -31,7 +31,7 @@ scrapy runspider emailIfDownSpider.py \
 ```
  * skip `-a emailTo=....` for no email to be sent
 
-# Depoloy to scrapinghub.com
+# Deploy to scrapinghub.com
 1. Follow instructions in `Usage` above
 2. Register on [Scrapy cloud](http://scrapinghub.com/scrapy-cloud/)
  * Start a new project
