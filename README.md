@@ -2,6 +2,10 @@
 [Scrapy](https://scrapy.org) spider that sends a notification email if a URL is down.
 Can be deployed to the [Scrapy cloud](http://scrapinghub.com/scrapy-cloud/) using their free plan.
 
+NOTE:
+I just learned about https://uptimerobot.com/ which has a free plan for 50 monitors .. so this project is pretty much useless in that regards.
+Other tools are documented [here](https://healthchecks.io/about/) and [here](https://medium.com/@healthchecks/outage-postmortem-20-august-2016-204297b9d3dd)
+
 # Usage
 1. Install [pew](https://github.com/berdario/pew)
 2. Initialize
